@@ -72,9 +72,8 @@ Proyek ini mendukung operasi CRUD (Create, Read, Update, Delete) dan akan dikemb
 - Responsive layout untuk mobile
 
 ------------------------------------------------------------
----
-
 🔐 LOGIN DEFAULT
+------------------------------------------------------------
 
 | Username        | Password  |
 |-------------|---------- |
