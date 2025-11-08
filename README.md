@@ -42,7 +42,7 @@ Proyek ini mendukung operasi CRUD (Create, Read, Update, Delete) dan akan dikemb
 ⚙️ Cara Menjalankan di Lokal
 ------------------------------------------------------------
 1. Clone repository:
-   git clone https://github.com/username/manajemen-data-alumni.git
+   git clone https://github.com/BintangSry/manajemen-data-alumni.git
 
 2. Pindahkan folder proyek ke direktori htdocs XAMPP:
    C:\xampp\htdocs\manajemen-data-alumni
