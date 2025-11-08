@@ -72,6 +72,20 @@ Tampilan halaman dashboard: screenshots/dashboard.png
 - Responsive layout untuk mobile
 
 ------------------------------------------------------------
+---
+
+🔐 LOGIN DEFAULT
+
+| Username        | Password  |
+|-------------|---------- |
+| superadmin  | superadmin |
+| admin       | admin  |
+| user        | user   |
+
+💡 Kamu bisa mengedit atau menambahkan akun baru melalui fitur admin di dalam sistem.
+
+---
+------------------------------------------------------------
 👨‍💻 Author
 ------------------------------------------------------------
 Bintang Surya Nugraha
