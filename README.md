@@ -81,7 +81,7 @@ Proyek ini mendukung operasi CRUD (Create, Read, Update, Delete) dan akan dikemb
 | admin       | admin  |
 | user        | user   |
 
-💡 Kamu bisa mengedit atau menambahkan akun baru melalui fitur admin di dalam sistem.
+💡 Kamu bisa mengedit atau menambahkan akun baru melalui database.
 
 ---
 👨‍💻 Author
