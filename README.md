@@ -81,8 +81,5 @@ Email: bintangsry31@gmail.com
 GitHub: https://github.com/bintangSry
 
 ------------------------------------------------------------
-📄 Lisensi
-------------------------------------------------------------
-Proyek ini dirilis dengan lisensi MIT — bebas digunakan dan dimodifikasi dengan tetap mencantumkan kredit.
 
 Made with ❤️ using PHP Native
