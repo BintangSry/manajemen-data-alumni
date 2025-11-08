@@ -60,7 +60,7 @@ Proyek ini mendukung operasi CRUD (Create, Read, Update, Delete) dan akan dikemb
 ------------------------------------------------------------
 📸 Preview Tampilan
 ------------------------------------------------------------
-Tampilan halaman dashboard: screenshots/dashboard.png
+![Preview Website](screenshots/dashboard.png)  
 
 ------------------------------------------------------------
 💡 Rencana Pengembangan
@@ -85,7 +85,6 @@ Tampilan halaman dashboard: screenshots/dashboard.png
 💡 Kamu bisa mengedit atau menambahkan akun baru melalui fitur admin di dalam sistem.
 
 ---
-------------------------------------------------------------
 👨‍💻 Author
 ------------------------------------------------------------
 Bintang Surya Nugraha
