@@ -78,7 +78,7 @@ Bintang Surya Nugraha
 Fullstack Developer | PHP & React Enthusiast
 
 Email: bintangsry31@gmail.com
-GitHub: https://github.com/bintangSry
+GitHub: https://github.com/BintangSry
 
 ------------------------------------------------------------
 
